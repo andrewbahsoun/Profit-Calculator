@@ -2,6 +2,7 @@
 Profit Calculator for three+ Shoe Reselling websites: eBay, GOAT, Stockx, 
 
 Author: Andrew Bahsoun
+
 Email: bahsoun@chapman.edu
 
 Date Created: 09/15/21
