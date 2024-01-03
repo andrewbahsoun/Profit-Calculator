@@ -12,6 +12,10 @@ UIShipping.java
 UIWebsite.java
 
 To run:
+First, clone the repository using "git clone https://github.com/andrewbahsoun/Profit-Calculator.git" (no "")
+Then, enter Profit-Calculator directory.
+Use the following commands in the terminal:
+
 javac Driver.java
 java Driver
 
